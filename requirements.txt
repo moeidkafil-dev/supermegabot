@@ -3,3 +3,4 @@ httpx==0.24.1
 matplotlib==3.8.4
 qrcode
 gtts
+deep-translator==1.11.4
