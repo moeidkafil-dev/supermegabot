@@ -1,4 +1,5 @@
 python-telegram-bot==20.3
-deep-translator==1.11.4
+httpx==0.24.1
 matplotlib==3.8.4
 qrcode
+gtts
